@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-ddddadding data to test stashing
-=======
-adding data to test stashing and validating
->>>>>>> Stashed changes
